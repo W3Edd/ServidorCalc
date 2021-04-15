@@ -1,0 +1,11 @@
+{
+  "name": "amigosinformaticos/calculadoraapachethrift",
+  "description": "Implementacion de calculadora en ApacheThrift",
+  "autoload": {
+    "classmap": [
+      "service",
+      "ThriftLibs",
+      "vendor"
+    ]
+  }
+}
